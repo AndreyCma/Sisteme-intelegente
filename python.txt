@@ -1,0 +1,24 @@
+1) 12
+2)"in padurea cu alune aveau case" + "2" +"pitici"
+3) 10
+4) a = int(input())
+   a += 1
+5) text = input()
+   s = text.split(".")
+   s[1]
+6.1) d
+6.2) a.insert(0,"x")
+6.3) a.pop()
+     a.pop()
+6.4) a.sort(reverse=True)
+6.5) del a[0:2]
+     b.extend(a)
+
+7) invent = {
+    "scaune": 22,
+    "mese": 33
+}
+   items = invent.keys()
+   values = invent.values()
+   print(items)
+   print(sum(values))
